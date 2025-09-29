@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KrishanuRoyEng
-- 👀 I’m interested in Javascript and MERN Full stack
+- 👀 I’m interested in Full stack and AI
 - 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/krishanu-roy-702363320/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Games were the gateway for me to learn about computers and coding!
